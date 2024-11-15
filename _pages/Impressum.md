@@ -9,11 +9,11 @@ Diese Texte begleiten die Ausstellung "[Let’s play! Videospielkultur in der Sc
 
 Kontaktieren Sie uns unter / Contactez-nous à l'adresse [info@chludens.ch](mailto:info@chludens.ch).
 
-[![Confoederatio Ludens](/lets-play/assets/logos/ludens.png){: width="100px" style="margin-right: 20px"}](https://chludens.ch)
-[![BFH](/lets-play/assets/logos/bfh.png){: width="150px" style="margin-right: 20px"}](https://bfh.ch)
-[![HKB](/lets-play/assets/logos/hkb.png){: width="100px" style="margin-right: 20px"}](https://hkb.bfh.ch)
-[![Stadtbibliothek Biel/Bienne](/lets-play/assets/logos/library_biel-bienne.png){: width="250px" style="margin-right: 20px"}](https://www.bibliobiel.ch)
-[![ENTER Technikwelt Solothurn](/lets-play/assets/logos/enter.png){: width="100px" style="margin-right: 20px"}](https://www.enter.ch)
+[![Confoederatio Ludens](/lets-play/assets/logos/ludens.png){: width="100px" style="margin-right: 20px"}](https://chludens.ch){: target="_blank"}
+[![BFH](/lets-play/assets/logos/bfh.png){: width="150px" style="margin-right: 20px"}](https://bfh.ch){: target="_blank"}
+[![HKB](/lets-play/assets/logos/hkb.png){: width="100px" style="margin-right: 20px"}](https://hkb.bfh.ch){: target="_blank"} <br>
+[![Stadtbibliothek Biel/Bienne](/lets-play/assets/logos/library_biel-bienne.png){: width="150px" style="margin-right: 20px"}](https://www.bibliobiel.ch){: target="_blank"}
+[![ENTER Technikwelt Solothurn](/lets-play/assets/logos/enter.jpg){: width="125px" style="margin-right: 20px"}](https://www.enter.ch){: target="_blank"}
 
 Mit freundlicher Unterstützung der [ENTER Technikwelt Solothurn](https://www.enter.ch). *Avec l'aimable soutien de [ENTER Technikwelt Solothurn](https://www.enter.ch).*
 
