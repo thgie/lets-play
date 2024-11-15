@@ -3,7 +3,7 @@ Videospiele sind kein neues Phänomen mehr. Sie blicken in der Schweiz auf eine 
 Les jeux vidéo ne sont plus un phénomène nouveau. Ils ont plus de 50 ans d'histoire en Suisse et nos grands-parents ont déjà joué aux premiers jeux dans les années 1970 et 1980! Aujourd'hui, les jeux vidéo font partie de notre quotidien. Malgré le rôle important que jouent les jeux vidéo dans notre société, nous n'avons pas l'habitude d'en parler à travers les générations. Comment partageons-nous nos expériences et discutons-nous des jeux vidéo en famille ou à l'école?
 
 ## Lizenz / Licence
-Dieses Werk steht unter einer / Ce travail est sous licence 
+Dieses Werk steht unter einer / Ce travail est sous licence <br>
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]

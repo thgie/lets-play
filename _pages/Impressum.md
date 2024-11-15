@@ -25,7 +25,7 @@ Mit freundlicher Unterstützung der [ENTER Technikwelt Solothurn](https://www.en
 - Graham Fallon © 2023
 
 ## Lizenz / Licence
-Dieses Werk steht unter einer / Ce travail est sous licence 
+Dieses Werk steht unter einer / Ce travail est sous licence <br>
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
