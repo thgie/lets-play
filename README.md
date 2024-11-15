@@ -18,7 +18,7 @@ Les jeux vidéo ne sont plus un phénomène nouveau. Ils ont plus de 50 ans d'hi
 - [Poster](assets/print/Poster_Exhibition.pdf)
 - [Gaming Corner Information](assets/print/Gaming_Corner_Information.pdf)
 
-## Impressum
+## [Impressum](_pages/Impressum.md)
 
 Diese Texte begleiten die Ausstellung "[Let’s play! Videospielkultur in der Schweiz](https://www.bfh.ch/gesundheit/de/aktuell/fachveranstaltungen/digital-days-nov-2024-lets-play/)". Ces textes accompagnent l'exposition "[Let's play ! La culture du jeu vidéo en Suisse](https://www.bfh.ch/sante/fr/actualites/evenements-pour-specialistes/digital-days-nov-2024-lets-play/)". Diese Ausstellung wurde organisiert von [Confoederatio Ludens](https://chludens.ch) im Rahmen der BFH Digitaltage 2024 in Zusammenarbeit mit der Stadtbibliothek Biel/Bienne und realisiert durch / Cette exposition a été organisée par [Confoederatio Ludens](https://chludens.ch) dans le cadre des Journées numériques HESB 2024 en collaboration avec la Bibliothèque de la ville de Biel/Bienne et réalisée par Adrian Demleitner, Loïse Bilat, Eugen Pfister, Sara Plutino, et Sarah Rochat.
 
