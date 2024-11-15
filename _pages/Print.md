@@ -36,4 +36,4 @@ layout: post
 
 [Download PDF](/lets-play/assets/print/pdf/Gaming_Corner_Information.pdf){: target="_blank"}
 
-![](/lets-play/assets/print/jpg/gaming_corner_information.jpg)
+![](/lets-play/assets/print/jpg/gaming_corner_info.jpg)
