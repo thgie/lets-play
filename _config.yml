@@ -39,16 +39,17 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 # Permalinks
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
-# Disqus comments
-# disqushandler:            sighingnow
-
 collections:
   pages:
+    output: true
+    permalink: /:collection/:path/
+  texts:
     output: true
     permalink: /:collection/:path/
 
 ordered_collections:
   - pages
+  - texts
 
 page_width: 800px
 
