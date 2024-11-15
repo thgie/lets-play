@@ -1,0 +1,2 @@
+- [Poster](assets/print/Poster_Exhibition.pdf)
+- [Gaming Corner Information](assets/print/Gaming_Corner_Information.pdf)
