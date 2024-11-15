@@ -11,11 +11,11 @@ Mit freundlicher Unterstützung der [ENTER Technikwelt Solothurn](https://www.en
 
 Kontaktieren Sie uns unter / Contactez-nous à l'adresse info@chludens.ch.
 
-![Confoederatio Ludens](assets/logos/ludens.png){: width="100px"}
-![BFH](assets/logos/bfh.png){: width="100px"}
-![HKB](assets/logos/hkb.png){: width="100px"}
-![Stadtbibliothek Biel/Bienne](assets/logos/library_biel-bienne.png){: width="100px"}
-![ENTER Technikwelt Solothurn](assets/logos/enter.png){: width="100px"}
+![Confoederatio Ludens](/lets-play/assets/logos/ludens.png){: width="100px"}
+![BFH](/lets-play/assets/logos/bfh.png){: width="100px"}
+![HKB](/lets-play/assets/logos/hkb.png){: width="100px"}
+![Stadtbibliothek Biel/Bienne](/lets-play/assets/logos/library_biel-bienne.png){: width="100px"}
+![ENTER Technikwelt Solothurn](/lets-play/assets/logos/enter.png){: width="100px"}
 
 ## Photos
 
