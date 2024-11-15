@@ -1,6 +1,6 @@
 require(['gitbook', 'jquery'], function(gitbook, $) {
     var SITES = {
-        'facebook': {
+        /*'facebook': {
             'label': 'Facebook',
             'icon': 'fa fa-facebook',
             'onClick': function(e) {
@@ -63,7 +63,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 e.preventDefault();
                 window.open('http://vkontakte.ru/share.php?url='+encodeURIComponent(location.href));
             }
-        }
+        }*/
     };
 
 

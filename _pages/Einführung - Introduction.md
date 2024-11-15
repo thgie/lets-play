@@ -1,12 +1,11 @@
 ---
+title: Einführung / Introduction
 author: Adrian Demleitner
 date: 2024-11-11
 layout: post
 ---
 
-# Einführung / Introduction
-
-**Videospielkultur und die Generationen**
+## Videospielkultur und die Generationen
 
 Videospiele sind kein neues Phänomen mehr. Sie blicken in der Schweiz auf eine Geschichte von mehr als 50 Jahren zurück und schon unsere Grosseltern haben in den 1970er und 1980er-Jahren die ersten Games gespielt! Heute sind Videospiele aus unserem Alltag nicht mehr wegzudenken. Trotz der wichtigen Rolle, die Gaming in unserer Gesellschaft spielt, sind wir es aber nicht gewohnt generationsübergreifend über dieses Thema zu sprechen. Wie teilen wir unsere Erlebnisse und diskutieren über Videospiele in der Familie oder in Schulklassen?
 
@@ -14,7 +13,7 @@ Die Ausstellung nimmt mit auf eine Zeitreise zu den Anfängen der Videospielkult
 
 Ergänzt wird die Ausstellung durch eine Play-Konferenz, in der familienfreundliche Videospiele vorgestellt und die Herausforderungen der Freizeitgestaltung diskutiert werden. Kreative Videospiele laden Eltern und Kinder ein, gemeinschaftliche Erfahrungen zu machen. Mit den Vortragenden können wichtige Themen besprochen werden: Kommunikation und Austausch zwischen den Generationen, Gewalt, Sucht, Online-Spiele sowie der Umgang mit Frustration und Versagen als Lernmoment.
 
-**La culture du jeu vidéo et les générations**
+## La culture du jeu vidéo et les générations
 
 Les jeux vidéo ne sont plus un phénomène nouveau. Ils ont plus de 50 ans d'histoire en Suisse et nos grands-parents ont déjà joué aux premiers jeux dans les années 1970 et 1980! Aujourd'hui, les jeux vidéo font partie de notre quotidien. Malgré le rôle important que jouent les jeux vidéo dans notre société, nous n'avons pas l'habitude d'en parler à travers les générations. Comment partageons-nous nos expériences et discutons-nous des jeux vidéo en famille ou à l'école?
 
