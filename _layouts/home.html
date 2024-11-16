@@ -49,7 +49,7 @@
                 gitbook.page.hasChanged({%- include metadata-home.json.tpl -%});
             });
 
-            document.addEventListener('DOMReady', () => {
+            document.addEventListener('DOMContentLoaded', () => {
                 document.querySelector('.header').parentNode.classList.add('header-wrapper');
             })
 
