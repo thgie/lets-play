@@ -41,9 +41,11 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 collections:
   pages:
+    label: Seiten / Pages
     output: true
     permalink: /:collection/:path/
   texts:
+    label: Texte / Texts
     output: true
     permalink: /:collection/:path/
 
