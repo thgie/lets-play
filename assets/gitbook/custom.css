@@ -161,7 +161,12 @@
     font-family: Georgia, serif;
 }
 .book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-family: "IBM Plex Mono", serif;
+}
+
+.book h1, .book h2, .book h3, .book h4, .book h5, .book h6 {
+    color: #0013DA !important;
 }
 
 /* Render wide tables */
