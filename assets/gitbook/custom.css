@@ -281,3 +281,7 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     z-index: 0;
     opacity: 0.75;
 }
+
+.markdown-section p > img {
+    border-radius: 10px;
+}
