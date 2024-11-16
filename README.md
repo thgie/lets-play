@@ -1,4 +1,4 @@
-![](/lets-play/assets/header.png)
+![](/lets-play/assets/header.png){: class="header"}
 
 Videospiele sind kein neues Phänomen mehr. Sie blicken in der Schweiz auf eine Geschichte von mehr als 50 Jahren zurück und schon unsere Grosseltern haben in den 1970er und 1980er-Jahren die ersten Games gespielt! Heute sind Videospiele aus unserem Alltag nicht mehr wegzudenken. Trotz der wichtigen Rolle, die Gaming in unserer Gesellschaft spielt, sind wir es aber nicht gewohnt generationsübergreifend über dieses Thema zu sprechen. Wie teilen wir unsere Erlebnisse und diskutieren über Videospiele in der Familie oder in Schulklassen?
 

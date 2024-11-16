@@ -48,6 +48,11 @@
             gitbook.push(function() {
                 gitbook.page.hasChanged({%- include metadata-home.json.tpl -%});
             });
+
+            document.addEventListener('DOMReady', () => {
+                document.querySelector('.header').parentNode.classList.add('header-wrapper');
+            })
+
             </script>
         </div>
 
